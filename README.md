@@ -4,6 +4,7 @@
 
 Server Gigabit 是一家马来西亚本土商家，主要就是提供马来西亚境内的服务器和网络解决方案，目前有 2 个数据中心：分别位于马来西亚吉隆坡的 AIMS 数据中心和位于马来西亚赛城的 Bridge 数据中心。Server Gigabit 支持贝宝，加密货币和信用卡，提供马来西亚原生IP。24/7 全天候售后服务，中英文沟通，以及 7 天退款条例。 
 
+
 Server Gigabit VPS 默认是 100Mbps 共享带宽，不限制流量使用，低延迟，架构(VIRTUAL TYPE)：KVM 分为 Linux VPS 和 Windows VPS 两种，其中 Linux VPS 最低才月付$11.59 起，成功的实现了低付出高回报。也因此许多用户都会有许多问题，因此本次测评的数据会给出答 案，数据仅供参考。
 
 官方网站：  https://www.servergigabit.com/ 
