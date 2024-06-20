@@ -52,6 +52,8 @@ Tiktok 解锁测试：
  
 VPS 性能非常好，超级给力； 网络方面：移动回程基本上是直连，电信和联通暂时是马来西亚主导。 
 
+## 速度测试（speedtest）
+![S12](https://github.com/Servergigabit/Server-Gigabit/assets/173138583/36048345-74d7-4877-acbc-da261c200c85)
 
 ## 退款政策
 除非退款政策涵盖退款，否则 Servergigabit 不会处理任何退款。
